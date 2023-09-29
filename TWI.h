@@ -1,5 +1,5 @@
 /* 
- * File:   I2C.h
+ * File:   TWI.h
  * Author: Vysakh C S
  *
  * Created on 29 September, 2023, 4:06 PM

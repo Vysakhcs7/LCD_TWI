@@ -1,5 +1,5 @@
 /////* 
-//// * File:   I2C_LCD.c
+//// * File:   TWI_LCD.c
 //// * Author: Vysakh C S
 //// *Program for interfacing ATMEGA328P with PCF8574 I2C Expander and 16 x2 LCD
 //// * Created on 16 September, 2023, 12:10 PM
